@@ -1,0 +1,40 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is Love React Work By Radha Krishna",
+  
+  "scripts": {
+   
+    "start": "parcel index.html",
+    "build" : "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkrishna019/Love_React.git"
+  },
+  "keywords": [
+    "React",
+    "Love",
+    "React",
+    "Radha",
+    "Krishna"
+  ],
+  "author": "Radha Krishna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkrishna019/Love_React/issues"
+  },
+  "homepage": "https://github.com/rkrishna019/Love_React#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist" : [
+    "last 2 versions"
+  ]
+}
